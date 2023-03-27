@@ -1,6 +1,6 @@
-### Hi! I'm a software developer with a passion for fun, interactive solutions
+### Hi! I'm a software developer, musician and teacher
 
-- For an example of my work, visit [synthed](https://www.synthed.co.uk). It's a fun educational app designed to teach an absolute beginner the basics of using a synthesizer to make music 🎹
+- For an example of my work, visit [synthed](https://www.synthed.co.uk). It's a fun educational app designed to teach an absolute beginner the basics of using a synthesizer to make music. The repository is pinned below if you want to see how I made it 🎹
 - I recently completed the CodeClan professional software development course, and am now seeking a junior developer role. Get in touch [here](https://www.linkedin.com/in/seamuslouisryan/) if you know of a role I might be interested in.
 - I have been using Python, Javascript, TypeScript, Java, and the React framework but am currently learning C++ and JUCE for audio plugin development 💿
 
