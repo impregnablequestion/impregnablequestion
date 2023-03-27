@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm a software developer with a passion for fun, interactive solutions
+
+- For an example of my work, visit [synthed](https://www.synthed.co.uk). It's a fun educational app designed to teach an absolute beginner the basics of using a synthesizer to make music 🎹
+- I recently completed the CodeClan professional software development course, and am now seeking a junior developer role. Get in touch [here](https://www.linkedin.com/in/seamuslouisryan/) if you know of a role I might be interested in.
+- I have been using Python, Javascript, TypeScript, Java, and the React framework but am currently learning C++ and JUCE for audio plugin development 💿
 
 <!--
 **impregnablequestion/impregnablequestion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
